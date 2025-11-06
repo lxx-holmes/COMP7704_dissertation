@@ -35,7 +35,7 @@ VIA is composed of four coordinated AI teams:
 1. **Data Specialists Team** – Extracts and verifies 10-K filings and market data using multimodal models.  
 
 <p align="center">
-  <img src="figures/page15_img1.png" width="1000" alt="Figure 4 – Data verification pipeline">
+  <img src="figures/page15_img1.png" width="1000" alt="Figure 4 – Data verification pipeline"><br>
   <em>Data verification pipeline</em>
 </p>
 
@@ -57,12 +57,12 @@ Samples of the industry expert’s output on industrial insights
    - Ratio Analysis
 
  <p align="center">
-  <img src="figures/junior analyst.png" width="700" alt="junior analyst">
+  <img src="figures/junior analyst.png" width="700" alt="junior analyst"><br>
   <em>Junior analyst workflow</em>
 </p>
 
 <p align="center">
-  <img src="figures/senior analyst.png" width="700" alt="senior analyst">
+  <img src="figures/senior analyst.png" width="700" alt="senior analyst"><br>
   <em>Senior analyst workflow</em>
 </p>
 
@@ -97,7 +97,7 @@ Samples of the industry expert’s output on industrial insights
 > *A sample valuation report of AAPL after Nov 2023’s annual report release.*
 
 <p align="center">
-  <img src="figures/valuator.png" width="700" alt="valuation expert">
+  <img src="figures/valuator.png" width="700" alt="valuation expert"><br>
   <em>The valuation expert workflow</em>
 </p>
 
