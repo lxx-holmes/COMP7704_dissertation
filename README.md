@@ -183,6 +183,11 @@ Each report undergoes iterative **LLM self-review** for:
 - Outperformed Buy-and-Hold, MACD, and Mean-Reversion strategies  
 - Generated **positive alpha** with realistic risk-adjusted returns  
 
+<p align="center">
+  <img src="figures/trading_results.png" width="700" alt="trading results"><br>
+  <em>Performance comparison across all strategies using four evaluation metrics. For each metric, the best-performing value is highlighted in bold.</em>
+</p>
+
 *(Figures 20–22: Portfolio backtest and P&L visualization)*
 
 ---
