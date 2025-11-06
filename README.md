@@ -57,12 +57,12 @@ Samples of the industry expert’s output on industrial insights
    - Ratio Analysis
 
  <p align="center">
-  <img src="figures/junior analyst.png" width="1000" alt="junior analyst">
+  <img src="figures/junior analyst.png" width="700" alt="junior analyst">
   <em>Junior analyst workflow</em>
 </p>
 
 <p align="center">
-  <img src="figures/senior analyst.png" width="1000" alt="senior analyst">
+  <img src="figures/senior analyst.png" width="700" alt="senior analyst">
   <em>Senior analyst workflow</em>
 </p>
 
@@ -97,7 +97,7 @@ Samples of the industry expert’s output on industrial insights
 > *A sample valuation report of AAPL after Nov 2023’s annual report release.*
 
 <p align="center">
-  <img src="figures/valuator.png" width="1000" alt="valuation expert">
+  <img src="figures/valuator.png" width="700" alt="valuation expert">
   <em>The valuation expert workflow</em>
 </p>
 
