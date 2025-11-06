@@ -27,9 +27,9 @@ The system simulates a team of specialized AI analysts who collectively analyze 
 VIA is composed of four coordinated AI teams:
 
 <p align="center">
-  <img src="figures/VIA framework.png" width="1000" alt="Figure 3 – VIA Framework Architecture">
+  <img src="figures/VIA framework.png" width="1000" alt="Figure 3 – VIA Framework Architecture"><br>
+  <em>Overall VIA architecture</em>
 </p>
-*Overall VIA architecture*
 
 
 1. **Data Specialists Team** – Extracts and verifies 10-K filings and market data using multimodal models.  
