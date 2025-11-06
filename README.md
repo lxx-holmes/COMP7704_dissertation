@@ -155,7 +155,15 @@ Each report undergoes iterative **LLM self-review** for:
 - Average token length per document: ~123k  
 - Enables long-context reasoning and document understanding research  
 
-*(Figures 1 & 2: Industry coverage and token distribution)*
+<p align="center">
+  <img src="figures/data.png" width="700" alt="data"><br>
+  <em>Industries of companies covered</em>
+</p>
+
+<p align="center">
+  <img src="figures/page13_img1.png" width="700" alt="token lengths"><br>
+  <em>Distribution of token lengths of the 10-K filings</em>
+</p>
 
 ---
 
