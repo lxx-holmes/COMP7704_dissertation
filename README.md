@@ -84,7 +84,8 @@ Samples of the industry expert’s output on industrial insights
 > 
 > Our intrinsic value estimate for late 2023 is about **$160/share**. The stock at $175+ appeared somewhat overvalued (~10% above intrinsic). The market’s optimism (Apple +28% YTD vs +18% Nasdaq by Nov 2023) was “pricing in” perfect execution of Apple’s next moves (continued services growth and a successful Vision Pro launch). Any hiccup in those expectations meant the intrinsic value would lag the market price.  
 > 
-> *Figure 17-1. A sample valuation report of AAPL after Nov 2023’s annual report release.*
+> *A sample valuation report of AAPL after Nov 2023’s annual report release.*
+
 
 
 ---
