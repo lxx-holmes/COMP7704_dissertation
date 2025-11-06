@@ -54,10 +54,20 @@ Samples of the industry expert’s output on industrial insights
    - Income Statement Quality  
    - Balance Sheet Quality  
    - Cash Flow Quality  
-   - Ratio Analysis  
-   *(Figures 5–12: Analytical frameworks and workflows)*
+   - Ratio Analysis
 
-4. **Valuation & Trading Team** – Performs intrinsic valuation (P/E, EV/EBITDA, P/S) and trading backtests.
+ <p align="center">
+  <img src="figures/junior analyst.png" width="1000" alt="junior analyst">
+  <em>Junior analyst workflow</em>
+</p>
+
+<p align="center">
+  <img src="figures/senior analyst.png" width="1000" alt="senior analyst">
+  <em>Senior analyst workflow</em>
+</p>
+
+
+3. **Valuation & Trading Team** – Performs intrinsic valuation (P/E, EV/EBITDA, P/S) and trading backtests.
 
 > ## Valuation Report of AAPL  
 > **Date:** 2023-11-03 (FY2023 Q4 Results)  
@@ -86,7 +96,10 @@ Samples of the industry expert’s output on industrial insights
 > 
 > *A sample valuation report of AAPL after Nov 2023’s annual report release.*
 
-
+<p align="center">
+  <img src="figures/valuator.png" width="1000" alt="valuation expert">
+  <em>The valuation expert workflow</em>
+</p>
 
 ---
 
