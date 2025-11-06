@@ -40,7 +40,7 @@ VIA is composed of four coordinated AI teams:
    *(Figures 17-1 & 17-2: Example valuation reports for Apple Inc.)*
 
 <p align="center">
-  <img src="figures/VIA framework.png" width="700" alt="Figure 3 – VIA Framework Architecture">
+  <img src="figures/VIA framework.png" width="1000" alt="Figure 3 – VIA Framework Architecture">
 </p>
 *(Figure 3: Overall VIA architecture)*
 
