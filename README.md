@@ -39,6 +39,9 @@ VIA is composed of four coordinated AI teams:
 4. **Valuation & Trading Team** – Performs intrinsic valuation (P/E, EV/EBITDA, P/S) and trading backtests.  
    *(Figures 17-1 & 17-2: Example valuation reports for Apple Inc.)*
 
+<p align="center">
+  <img src="figures/Picture 1.png" width="700" alt="Figure 3 – VIA Framework Architecture">
+</p>
 *(Figure 3: Overall VIA architecture)*
 
 ---
