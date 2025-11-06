@@ -65,7 +65,7 @@ Each report undergoes iterative **LLM self-review** for:
 - **Doubao-Vision-Pro-32k** — multimodal data extraction  
 - **DeepSeek-R1** — reasoning and self-critique  
 - **ChatGPT-4o** — cross-domain industry insights  
-- **Brave-Search Agent** — real-time data retrieval
+- **Tavily Search Agent** — real-time data retrieval
 
 ---
 
