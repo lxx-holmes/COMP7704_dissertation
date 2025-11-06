@@ -129,7 +129,16 @@ Each report undergoes iterative **LLM self-review** for:
 - **Quantitative accuracy** (data consistency)  
 - **Qualitative coherence** (reasoning and narrative flow)  
 
-*(Figures 14-1, 14-2: Example of self-refinement process)*
+<p align="center">
+  <img src="figures/self critique.png" width="700" alt="self critique"><br>
+  <em>The self-critique and self-refinement process</em>
+</p>
+
+<p align="center">
+  <img src="figures/self critique loop.png" width="400" alt="self critique loop"><br>
+  <em>The LLM self-critique, self-refinement, self-judge loop</em>
+</p>
+
 
 ### Models Used
 - **Doubao-Vision-Pro-32k** — multimodal data extraction  
@@ -159,7 +168,6 @@ Each report undergoes iterative **LLM self-review** for:
 | **OpenAI Deep Research** | Strong narrative | Low factual consistency |
 | **VIA** | Accurate, coherent, verifiable | Higher compute cost |
 
-*(Figures 18–22: Side-by-side comparison with baseline systems)*
 
 ### Trading Performance
 - Initial capital: \$1,000,000  
