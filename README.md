@@ -59,85 +59,33 @@ Samples of the industry expert’s output on industrial insights
 
 4. **Valuation & Trading Team** – Performs intrinsic valuation (P/E, EV/EBITDA, P/S) and trading backtests.
 
-<div>
-   <div style="max-width: 920px; margin: 24px auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.55;">
-  <div style="border: 1px solid #d0d7de; border-radius: 10px; box-shadow: 0 4px 14px rgba(27,31,36,0.06); overflow: hidden;">
-    
-    <!-- Header -->
-    <div style="background: #0b5fff; color: #fff; padding: 16px 20px;">
-      <h2 style="margin: 0; font-size: 20px;">Valuation Report — AAPL</h2>
-      <div style="opacity: 0.95; font-size: 14px;">2023-11-03 (FY2023 Q4 Results)</div>
-    </div>
+> ## Valuation Report of AAPL  
+> **Date:** 2023-11-03 (FY2023 Q4 Results)  
+> 
+> ---
+> **Intrinsic Value Per Share:** $160  
+> **Safety Margin:** 15%  
+> **Upper Bound:** 30%  
+> ---
+> 
+> ### Valuation Analysis  
+> Apple’s stock continued to climb in 2023, reaching about $175/share in early November despite FY2023 seeing a small revenue and profit dip (the first annual sales decline since 2019). This pushed Apple’s trailing P/E to roughly 27–28×. Investors treated Apple as a safe haven tech stock – it traded at a 35% P/E premium over the S&P 500 and ~22% over median tech peers by late 2023. The valuation implied confidence that Apple’s ecosystem momentum would offset the temporary hardware slump.  
+> 
+> Our intrinsic valuation balances Apple’s strong moat with the reality of flat-to-declining FY2023 earnings:
+> 
+> • **P/E:** We apply **25×** to FY2023 EPS (**$6.15**), a slight contraction from the market’s 27–28×, to reflect the growth slowdown. This gives an intrinsic value of roughly **$155/share**. The 25× multiple is still above the market’s long-term average, but reasonable given Apple’s superior ROIC (~39% vs ~14% sector) and anticipation of new product cycles (e.g., Vision Pro AR headset).  
+> 
+> • **EV/EBITDA:** Apple’s EV/EBITDA around this time was in the low-20s. We choose ~**18×** for intrinsic value, yielding a similar **$150–$160** range. Notably, Apple’s EV/EBITDA was about a 12% discount to Microsoft’s in 2023 (Apple ~19× vs MSFT ~22×) but well above Meta’s 12×, reflecting Apple’s steadier profile.  
+> 
+> • **P/S:** Around **7× sales** (with ~$383 B revenue), Apple’s P/S remained between hardware and software norms. Given stable margins, this again points to a value in the mid-$150s (since 5× would be too low and 10× too high for Apple’s mix).  
+> 
+> ---
+> **DDM Check:** Dividend ≈ $0.95 (yield 0.55%). Even with an optimistic growth outlook, the DDM value ($45–$50) is only a fraction of the stock price – a reminder that investors in 2023 were focused on Apple’s total cash return (dividends + big buybacks) and future growth, not just the dividend stream. Apple returned an enormous ~$90 B via buybacks in FY2023, shrinking share count ~4% and buoying EPS despite flat net income.  
+> 
+> Our intrinsic value estimate for late 2023 is about **$160/share**. The stock at $175+ appeared somewhat overvalued (~10% above intrinsic). The market’s optimism (Apple +28% YTD vs +18% Nasdaq by Nov 2023) was “pricing in” perfect execution of Apple’s next moves (continued services growth and a successful Vision Pro launch). Any hiccup in those expectations meant the intrinsic value would lag the market price.  
+> 
+> *Figure 17-1. A sample valuation report of AAPL after Nov 2023’s annual report release.*
 
-    <!-- Key Values -->
-    <div style="padding: 18px 20px 6px; display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 12px;">
-      <div style="background:#f6f8fa; border:1px solid #eaeef2; border-radius:8px; padding:12px;">
-        <div style="font-size:12px; color:#57606a; text-transform:uppercase; letter-spacing:.04em;">Intrinsic Value / Share</div>
-        <div style="font-weight:700; font-size:18px; color:#0b5fff;">$160</div>
-      </div>
-      <div style="background:#f6f8fa; border:1px solid #eaeef2; border-radius:8px; padding:12px;">
-        <div style="font-size:12px; color:#57606a; text-transform:uppercase; letter-spacing:.04em;">Safety Margin</div>
-        <div style="font-weight:700; font-size:18px;">15%</div>
-      </div>
-      <div style="background:#f6f8fa; border:1px solid #eaeef2; border-radius:8px; padding:12px;">
-        <div style="font-size:12px; color:#57606a; text-transform:uppercase; letter-spacing:.04em;">Upper Bound</div>
-        <div style="font-weight:700; font-size:18px;">30%</div>
-      </div>
-    </div>
-
-    <!-- Body -->
-    <div style="padding: 8px 20px 18px;">
-      <h3 style="margin:14px 0 6px; font-size:16px;">Valuation Analysis</h3>
-      <p style="margin: 8px 0;">
-        Apple’s stock continued to climb in 2023, reaching about $175/share in early November despite FY2023 seeing a small revenue and profit dip
-        (the first annual sales decline since 2019). This pushed Apple’s trailing P/E to roughly 27–28×. Investors treated Apple as a safe haven
-        tech stock – it traded at a 35% P/E premium over the S&amp;P 500 and ~22% over median tech peers by late 2023. The valuation implied confidence
-        that Apple’s ecosystem momentum would offset the temporary hardware slump.
-      </p>
-      <p style="margin: 8px 0;">
-        Our intrinsic valuation balances Apple’s strong moat with the reality of flat-to-declining FY2023 earnings:
-      </p>
-
-      <ul style="margin: 8px 0 10px 20px;">
-        <li style="margin:6px 0;">
-          <strong>P/E:</strong> We apply <strong>25×</strong> to FY2023 EPS (<strong>$6.15</strong>), a slight contraction from the market’s 27–28×,
-          to reflect the growth slowdown. This gives an intrinsic value of roughly <strong>$155</strong> per share. The 25× multiple is still above the
-          market’s long-term average, but reasonable given Apple’s superior ROIC (~39% vs ~14% sector) and anticipation of new product cycles
-          (e.g., Vision Pro AR headset).
-        </li>
-        <li style="margin:6px 0;">
-          <strong>EV/EBITDA:</strong> Apple’s EV/EBITDA around this time was in the low-20s. We choose ~<strong>18×</strong> for intrinsic value,
-          yielding a similar <strong>$150–$160</strong> range. Apple’s EV/EBITDA was ~12% below Microsoft’s in 2023 (AAPL ~19× vs MSFT ~22×) but well above
-          Meta’s ~12×, reflecting Apple’s steadier profile.
-        </li>
-        <li style="margin:6px 0;">
-          <strong>P/S:</strong> Around <strong>7× sales</strong> (with ~$383B revenue), Apple’s P/S sat between hardware and software norms. Given stable
-          margins, this again points to a value in the mid-$150s (since 5× would be too low and 10× too high for Apple’s mix).
-        </li>
-      </ul>
-
-      <p style="margin: 8px 0;">
-        <strong>DDM Check:</strong> Dividend ~$0.95 (yield 0.55%). Even with an optimistic growth outlook, the DDM value ($45–$50) is only a fraction of the
-        stock price – a reminder that investors in 2023 focused on total cash return (dividends + large buybacks) and future growth, not just dividends.
-        Apple returned roughly ~$90B via buybacks in FY2023, shrinking share count ~4% and buoying EPS despite flat net income.
-      </p>
-
-      <p style="margin: 8px 0;">
-        <strong>Conclusion:</strong> Our intrinsic value estimate for late 2023 is about <strong>$160/share</strong>. With the stock at $175+, it appeared
-        somewhat overvalued (~10% above intrinsic). The market’s optimism (Apple +28% YTD vs +18% Nasdaq by Nov 2023) was “pricing in” perfect execution
-        of Apple’s next moves (continued services growth and a successful Vision Pro launch). Any hiccup would leave market price above intrinsic value.
-      </p>
-
-      <!-- Figure caption -->
-      <div style="text-align:center; margin-top: 12px; color:#57606a; font-size: 13px;">
-        <em>A sample valuation report of AAPL after Nov 2023’s annual report release.</em>
-      </div>
-    </div>
-
-  </div>
-</div>
-</div>
-   *(Figures 17-1 & 17-2: Example valuation reports for Apple Inc.)*
 
 ---
 
