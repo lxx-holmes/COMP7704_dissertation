@@ -185,10 +185,15 @@ Each report undergoes iterative **LLM self-review** for:
 
 <p align="center">
   <img src="figures/trading_results.png" width="700" alt="trading results"><br>
-  <em>Performance comparison across all strategies using four evaluation metrics. For each metric, the best-performing value is highlighted in bold.</em>
 </p>
 
-*(Figures 20–22: Portfolio backtest and P&L visualization)*
+<p align="center">
+  <img src="figures/page38_img1.png" width="700" alt="AAPL trading results"><br>
+  <em>The returns of trading AAPL. This chart illustrates how the VIA strategy tactically navigates market cycles to optimize returns. (1) Strategic Entry (2023-01): VIA enters the market when Apple’s stock drops below $127.50, which is 85% of its estimated intrinsic
+value of $150. By this point, the initial $1 million in capital has grown to $1.08 million through interest accumulation, enabling the purchase of 8,675 shares—significantly more than the 7,911 shares acquired by a Buy-and-Hold investor at the outset. (2) Disciplined Exit
+(2024-06): VIA exits when the stock price exceeds $208, surpassing the upper valuation bound of $160 × 130%. The strategy locks in gains at a favorable point, avoiding potential volatility ahead. (3) Cash Advantage Maintained: While Buy-and-Hold remains fully invested, VIA holds cash and preserves capital, ready to deploy again when valuation conditions are favorable. (4) Poised for Opportunity: As the market shows signs of renewed turbulence, VIA is positioned to re-enter at a discount, potentially amplifying future returns thanks to its earlier exit and accumulated cash reserves.</em>
+</p>
+
 
 ---
 
