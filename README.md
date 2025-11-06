@@ -31,9 +31,16 @@ VIA is composed of four coordinated AI teams:
    *(Figure 4: Data verification pipeline)*
 
 2. **Industry Research Team** – Summarizes sector benchmarks and competitive positioning.  
-   *(Table 1: Example output for Tech and Energy sectors)*
+  ### Samples of the industry expert’s output on industrial insights
 
-3. **Analyst Team** – Junior and senior analysts collaborate to analyze company fundamentals over multiple years using five dimensions:
+| Sector | Subsector | Metrics |
+|:--------|:-----------|:---------|
+| **Technology** | Consumer Electronics | "Unit sales growth", "ASP trends", "Product lifecycle metrics", "Margin by product line", "Innovation pipeline value" |
+| **Energy** | Oil & Gas Integrated | "Reserve replacement ratio", "Production growth", "Refining margins", "Break-even oil price", "Carbon intensity metrics" |
+
+  
+
+4. **Analyst Team** – Junior and senior analysts collaborate to analyze company fundamentals over multiple years using five dimensions:
    - Business Strategy  
    - Income Statement Quality  
    - Balance Sheet Quality  
@@ -41,7 +48,7 @@ VIA is composed of four coordinated AI teams:
    - Ratio Analysis  
    *(Figures 5–12: Analytical frameworks and workflows)*
 
-4. **Valuation & Trading Team** – Performs intrinsic valuation (P/E, EV/EBITDA, P/S) and trading backtests.  
+5. **Valuation & Trading Team** – Performs intrinsic valuation (P/E, EV/EBITDA, P/S) and trading backtests.  
    *(Figures 17-1 & 17-2: Example valuation reports for Apple Inc.)*
 
 ---
