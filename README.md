@@ -67,7 +67,9 @@ Samples of the industry expert’s output on industrial insights
 </p>
 
 
-3. **Valuation & Trading Team** – Performs intrinsic valuation (P/E, EV/EBITDA, P/S) and trading backtests.
+4. **Valuation & Trading Team** – Performs intrinsic valuation (P/E, EV/EBITDA, P/S) and trading backtests.
+
+The **Valuation Specialist** is responsible for determining a stock’s intrinsic value and setting appropriate safety margins for trading decisions.
 
 > ## Valuation Report of AAPL  
 > **Date:** 2023-11-03 (FY2023 Q4 Results)  
@@ -101,7 +103,7 @@ Samples of the industry expert’s output on industrial insights
   <em>The valuation expert workflow</em>
 </p>
 
-The Portfolio Manager makes investment decisions based on the Valuation Specialist’s assessments. It will:
+The **Portfolio Manager** makes investment decisions based on the Valuation Specialist’s assessments. It will:
 
 • Buy when the stock price falls below:
 
