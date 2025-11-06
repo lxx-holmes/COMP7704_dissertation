@@ -32,9 +32,13 @@ VIA is composed of four coordinated AI teams:
 *Overall VIA architecture*
 
 1. **Data Specialists Team** – Extracts and verifies 10-K filings and market data using multimodal models.  
+
+<p align="center">
+  <img src="figures/page15_img1.png" width="1000" alt="Figure 4 – Data verification pipeline">
+</p>
    *(Figure 4: Data verification pipeline)*
 
-2. **Industry Research Team** – Summarizes sector benchmarks and competitive positioning.  
+3. **Industry Research Team** – Summarizes sector benchmarks and competitive positioning.  
   
 Samples of the industry expert’s output on industrial insights
 
