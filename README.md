@@ -31,7 +31,8 @@ VIA is composed of four coordinated AI teams:
    *(Figure 4: Data verification pipeline)*
 
 2. **Industry Research Team** – Summarizes sector benchmarks and competitive positioning.  
-  ### Samples of the industry expert’s output on industrial insights
+  
+Samples of the industry expert’s output on industrial insights
 
 | Sector | Subsector | Metrics |
 |:--------|:-----------|:---------|
