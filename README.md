@@ -194,6 +194,11 @@ value of $150. By this point, the initial $1 million in capital has grown to $1.
 (2024-06): VIA exits when the stock price exceeds $208, surpassing the upper valuation bound of $160 × 130%. The strategy locks in gains at a favorable point, avoiding potential volatility ahead. (3) Cash Advantage Maintained: While Buy-and-Hold remains fully invested, VIA holds cash and preserves capital, ready to deploy again when valuation conditions are favorable. (4) Poised for Opportunity: As the market shows signs of renewed turbulence, VIA is positioned to re-enter at a discount, potentially amplifying future returns thanks to its earlier exit and accumulated cash reserves.</em>
 </p>
 
+<p align="center">
+  <img src="figures/page39_img1.png" width="700" alt="MCD trading results"><br>
+  <em>The returns of trading MCD. This chart illustrates how the VIA strategy tactically navigates market cycles to optimize returns. (1) Early Alignment (2021-01): Both strategies begin by purchasing shares, as VIA agents view the stock as undervalued at around $190. (2) Timely Exit (2021-07): VIA agents identify the stock as overvalued and exit the position, shifting to cash. They remain on the sidelines until 2022-03, when updated financials lead to a revised intrinsic value. At that point, they re-enter at favorable prices. Thanks to disciplined timing, VIA slightly outperforms Buy-and-Hold.(3) Peak Profit Capture (2023-12): VIA exits again as the stock trades above its revised upper bound. This proves timely—while Buy-and-Hold begins to experience notable losses, VIA has preserved capital and avoided the downturn. (4) Opportunistic Re-entry (2024-07): The stock reaches bargain levels, prompting VIA to re-enter. Having held cash during the drawdown, the strategy is well-positioned to capitalize on the recovery, leading to a significant performance advantage and delivering strong abnormal returns.</em>
+</p>
+
 
 ---
 
