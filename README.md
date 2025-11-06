@@ -1,9 +1,13 @@
 # 🧠 LLM Reasoners for Financial Statement Analysis
 
 **Author:** Xiaoxu (Susie) Li  
+
 **Degree:** MSc in Computer Science, The University of Hong Kong  
+
 **Supervisor:** Prof. Lingpeng Kong 
+
 **Date:** May 2025  
+
 **Repository:** [COMP7704_dissertation](https://github.com/lxx-holmes/COMP7704_dissertation)
 
 ---
