@@ -4,7 +4,7 @@
 
 **Degree:** MSc in Computer Science, The University of Hong Kong  
 
-**Supervisor:** Prof. Lingpeng Kong 
+**Supervisor:** Prof. L. Kong 
 
 **Date:** May 2025  
 
@@ -233,5 +233,5 @@ If you use or reference this work:
   title     = {LLM Reasoners for Financial Statement Analysis},
   school    = {The University of Hong Kong},
   year      = {2025},
-  advisor   = {Prof. Lingpeng Kong}
+  advisor   = {Prof. L. Kong}
 }
