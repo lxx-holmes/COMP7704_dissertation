@@ -59,6 +59,7 @@ Samples of the industry expert’s output on industrial insights
 
 4. **Valuation & Trading Team** – Performs intrinsic valuation (P/E, EV/EBITDA, P/S) and trading backtests.
 
+<div>
    <div style="max-width: 920px; margin: 24px auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.55;">
   <div style="border: 1px solid #d0d7de; border-radius: 10px; box-shadow: 0 4px 14px rgba(27,31,36,0.06); overflow: hidden;">
     
@@ -135,7 +136,7 @@ Samples of the industry expert’s output on industrial insights
 
   </div>
 </div>
-
+</div>
    *(Figures 17-1 & 17-2: Example valuation reports for Apple Inc.)*
 
 ---
