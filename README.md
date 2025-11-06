@@ -101,6 +101,17 @@ Samples of the industry expert’s output on industrial insights
   <em>The valuation expert workflow</em>
 </p>
 
+The Portfolio Manager makes investment decisions based on the Valuation Specialist’s assessments. It will:
+
+• Buy when the stock price falls below:
+
+intrinsic value × (1 − downside safety margin)
+
+• Sell when the stock price rises above:
+
+intrinsic value × (1 + upside safety margin)
+
+If a buy condition hasn’t been triggered, or after a sell if no new buy condition is met, the Portfolio Manager holds cash, earning a 4% risk-free interest rate.
 ---
 
 ## ⚙️ Methodology
