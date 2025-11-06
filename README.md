@@ -156,7 +156,7 @@ Each report undergoes iterative **LLM self-review** for:
 - Enables long-context reasoning and document understanding research  
 
 <p align="center">
-  <img src="figures/data.png" width="700" alt="data"><br>
+  <img src="figures/data.png" width="500" alt="data"><br>
   <em>Industries of companies covered</em>
 </p>
 
