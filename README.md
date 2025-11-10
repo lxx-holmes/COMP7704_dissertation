@@ -265,6 +265,7 @@ Our new system adopts the following workflow to deliver key market insights:
 **Iterative Refinement** – The system can iterate up to 3 times, refining analysis based on feedback; linear structures produce output in a single pass.
 
 **Stateful Coordination** – Shared State maintains task progress and decisions, enabling adaptive execution, unlike stateless sequential flows.
+
 ---
 
 ## 📚 Citation
