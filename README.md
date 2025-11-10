@@ -244,6 +244,22 @@ value of $150. By this point, the initial $1 million in capital has grown to $1.
 | Valuation | **Fig. 17–1, 17–2** | AAPL valuation example |
 | Baseline Comparison | **Fig. 18–22** | VIA vs baseline results |
 
+
+## 🔁 Recent Updates with LangGraph
+
+Recently, with the release of LangGraph 1.0, a more dynamic and efficient agentic AI financial research framework has become possible.
+
+Our new system adopts the following workflow to deliver key market insights:
+
+**Parallelism vs. Linearity** – Multiple agents (e.g., news, SEC, sentiment) run concurrently, while a linear flow executes one step at a time.
+
+**Dynamic Control Flow** – The supervisor node decides whether to continue or stop, enabling looping and conditional branching; linear workflows have fixed one-way progression.
+
+**Fan-in / Fan-out** – Results are distributed and merged across nodes (fan-out to agents, fan-in to supervisor), which linear sequences do not support.
+
+**Iterative Refinement** – The system can iterate up to 3 times, refining analysis based on feedback; linear structures produce output in a single pass.
+
+**Stateful Coordination** – Shared State maintains task progress and decisions, enabling adaptive execution, unlike stateless sequential flows.
 ---
 
 ## 📚 Citation
