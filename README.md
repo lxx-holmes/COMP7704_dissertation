@@ -251,6 +251,11 @@ Recently, with the release of LangGraph 1.0, a more dynamic and efficient agenti
 
 Our new system adopts the following workflow to deliver key market insights:
 
+<p align="center">
+  <img src="figures/new_structure.png" width="700" alt="new structure"><br>
+  <em>The updated structure with LangGraph</em>
+</p>
+
 **Parallelism vs. Linearity** – Multiple agents (e.g., news, SEC, sentiment) run concurrently, while a linear flow executes one step at a time.
 
 **Dynamic Control Flow** – The supervisor node decides whether to continue or stop, enabling looping and conditional branching; linear workflows have fixed one-way progression.
