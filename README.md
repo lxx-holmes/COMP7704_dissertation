@@ -249,7 +249,7 @@ value of $150. By this point, the initial $1 million in capital has grown to $1.
 
 Recently, with the release of LangGraph 1.0, a more dynamic and efficient agentic AI financial research framework has become possible.
 
-Our new system adopts the following workflow to deliver key market insights:
+Our new value-investing agents system adopts the following workflow to deliver key market insights:
 
 <p align="center">
   <img src="figures/new_structure.png" width="700" alt="new structure"><br>
@@ -266,6 +266,12 @@ Our new system adopts the following workflow to deliver key market insights:
 
 **Stateful Coordination** – Shared State maintains task progress and decisions, enabling adaptive execution, unlike stateless sequential flows.
 
+We have also developed a deep-research style chatbot that can answer the user's query regarding company fundamentals with insights in a minute, which adopts below multi-agent system structure, and can be found on Snapstock.ai.
+
+<p align="center">
+  <img src="figures/chatbot_structure.png" width="700" alt="new structure"><br>
+  <em>The updated deep-research style chatbot structure with LangGraph</em>
+</p>
 ---
 
 ## 📚 Citation
